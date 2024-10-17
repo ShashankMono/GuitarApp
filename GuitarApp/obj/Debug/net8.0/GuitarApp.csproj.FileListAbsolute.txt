@@ -1,0 +1,14 @@
+D:\monocept_c# learning\Assignment\GuitarApp\GuitarApp\GuitarApp\bin\Debug\net8.0\GuitarApp.exe
+D:\monocept_c# learning\Assignment\GuitarApp\GuitarApp\GuitarApp\bin\Debug\net8.0\GuitarApp.deps.json
+D:\monocept_c# learning\Assignment\GuitarApp\GuitarApp\GuitarApp\bin\Debug\net8.0\GuitarApp.runtimeconfig.json
+D:\monocept_c# learning\Assignment\GuitarApp\GuitarApp\GuitarApp\bin\Debug\net8.0\GuitarApp.dll
+D:\monocept_c# learning\Assignment\GuitarApp\GuitarApp\GuitarApp\bin\Debug\net8.0\GuitarApp.pdb
+D:\monocept_c# learning\Assignment\GuitarApp\GuitarApp\GuitarApp\obj\Debug\net8.0\GuitarApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\monocept_c# learning\Assignment\GuitarApp\GuitarApp\GuitarApp\obj\Debug\net8.0\GuitarApp.AssemblyInfoInputs.cache
+D:\monocept_c# learning\Assignment\GuitarApp\GuitarApp\GuitarApp\obj\Debug\net8.0\GuitarApp.AssemblyInfo.cs
+D:\monocept_c# learning\Assignment\GuitarApp\GuitarApp\GuitarApp\obj\Debug\net8.0\GuitarApp.csproj.CoreCompileInputs.cache
+D:\monocept_c# learning\Assignment\GuitarApp\GuitarApp\GuitarApp\obj\Debug\net8.0\GuitarApp.dll
+D:\monocept_c# learning\Assignment\GuitarApp\GuitarApp\GuitarApp\obj\Debug\net8.0\refint\GuitarApp.dll
+D:\monocept_c# learning\Assignment\GuitarApp\GuitarApp\GuitarApp\obj\Debug\net8.0\GuitarApp.pdb
+D:\monocept_c# learning\Assignment\GuitarApp\GuitarApp\GuitarApp\obj\Debug\net8.0\GuitarApp.genruntimeconfig.cache
+D:\monocept_c# learning\Assignment\GuitarApp\GuitarApp\GuitarApp\obj\Debug\net8.0\ref\GuitarApp.dll
